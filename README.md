@@ -1,1 +1,1 @@
-# semaine1
+Je suis le coach de cette équipe Indre ....j'essaie de créer mon premier readme. 
